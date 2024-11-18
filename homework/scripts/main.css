@@ -1,0 +1,16 @@
+body {
+    font-family: monospace;
+    background-color: #f0f8ff;
+    color: #00ac00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #tree-container {
+    text-align: center;
+    white-space: pre; 
+  }
+  
